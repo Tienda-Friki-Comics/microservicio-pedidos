@@ -20,6 +20,9 @@ import jakarta.validation.Valid;
 
 import com.tiendafriki.pedidos.dto.PedidoActualizarDTO;
 
+// REVISADO OK
+// Borre los comentarios
+
 @RestController
 @RequestMapping("/pedidos")
 public class PedidoController {
